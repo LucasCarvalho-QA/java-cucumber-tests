@@ -1,0 +1,127 @@
+
+
+Method caller: EnterEmail
+Método chamador: EnterEmail
+	 The value "automation@automation.com" was inserted on element "email"
+	 Foi inserido o valor "automation@automation.com" no campo "email"
+automation@automation.com
+
+
+Method caller: EnterPassword
+Método chamador: EnterPassword
+	 The value "12345" was inserted on element "//*[@id="password"]"
+	 Foi inserido o valor "12345" no campo "//*[@id="password"]"
+
+
+Method caller: ClickEnterButton
+Método chamador: ClickEnterButton
+	 Element "//*[@id="root"]/div/div/form/button" was successfully clicked by XPath
+	 Elemento "//*[@id="root"]/div/div/form/button" foi clicado com sucesso por XPath
+
+
+Method caller: EnterEmail
+Método chamador: EnterEmail
+	 The value "automation@automation.com" was inserted on element "email"
+	 Foi inserido o valor "automation@automation.com" no campo "email"
+automation@automation.com
+
+
+Method caller: EnterPassword
+Método chamador: EnterPassword
+	 The value "12346" was inserted on element "//*[@id="password"]"
+	 Foi inserido o valor "12346" no campo "//*[@id="password"]"
+
+
+Method caller: ClickEnterButton
+Método chamador: ClickEnterButton
+	 Element "//*[@id="root"]/div/div/form/button" was successfully clicked by XPath
+	 Elemento "//*[@id="root"]/div/div/form/button" foi clicado com sucesso por XPath
+
+
+Method caller: não_deve_ser_redirecionado_para_a_tela_inicial_deve_mostrar_a_mensagem
+Método chamador: não_deve_ser_redirecionado_para_a_tela_inicial_deve_mostrar_a_mensagem
+	 Expected message: "Email e/ou senha inválidos" 
+	 Received message: "Email e/ou senha inválidos" 
+	 Mensagem esperada: "Email e/ou senha inválidos" 
+	 Mensagem recebida: "Email e/ou senha inválidos" 
+
+
+Method caller: EnterEmail
+Método chamador: EnterEmail
+	 The value "automation@automation.co" was inserted on element "email"
+	 Foi inserido o valor "automation@automation.co" no campo "email"
+automation@automation.co
+
+
+Method caller: EnterPassword
+Método chamador: EnterPassword
+	 The value "12345" was inserted on element "//*[@id="password"]"
+	 Foi inserido o valor "12345" no campo "//*[@id="password"]"
+
+
+Method caller: ClickEnterButton
+Método chamador: ClickEnterButton
+	 Element "//*[@id="root"]/div/div/form/button" was successfully clicked by XPath
+	 Elemento "//*[@id="root"]/div/div/form/button" foi clicado com sucesso por XPath
+
+
+Method caller: não_deve_ser_redirecionado_para_a_tela_inicial_deve_mostrar_a_mensagem
+Método chamador: não_deve_ser_redirecionado_para_a_tela_inicial_deve_mostrar_a_mensagem
+	 Expected message: "Email e/ou senha inválidos" 
+	 Received message: "Email e/ou senha inválidos" 
+	 Mensagem esperada: "Email e/ou senha inválidos" 
+	 Mensagem recebida: "Email e/ou senha inválidos" 
+
+
+Method caller: EnterEmail
+Método chamador: EnterEmail
+	 The value "automation@automation.con" was inserted on element "email"
+	 Foi inserido o valor "automation@automation.con" no campo "email"
+automation@automation.con
+
+
+Method caller: EnterPassword
+Método chamador: EnterPassword
+	 The value "5699aS1!%¨^" was inserted on element "//*[@id="password"]"
+	 Foi inserido o valor "5699aS1!%¨^" no campo "//*[@id="password"]"
+
+
+Method caller: ClickEnterButton
+Método chamador: ClickEnterButton
+	 Element "//*[@id="root"]/div/div/form/button" was successfully clicked by XPath
+	 Elemento "//*[@id="root"]/div/div/form/button" foi clicado com sucesso por XPath
+
+
+Method caller: não_deve_ser_redirecionado_para_a_tela_inicial_deve_mostrar_a_mensagem
+Método chamador: não_deve_ser_redirecionado_para_a_tela_inicial_deve_mostrar_a_mensagem
+	 Expected message: "Email deve ser um email válido" 
+	 Received message: "Email deve ser um email válido" 
+	 Mensagem esperada: "Email deve ser um email válido" 
+	 Mensagem recebida: "Email deve ser um email válido" 
+
+
+Method caller: EnterEmail
+Método chamador: EnterEmail
+	 The value "" was inserted on element "email"
+	 Foi inserido o valor "" no campo "email"
+
+
+
+Method caller: EnterPassword
+Método chamador: EnterPassword
+	 The value "12345" was inserted on element "//*[@id="password"]"
+	 Foi inserido o valor "12345" no campo "//*[@id="password"]"
+
+
+Method caller: ClickEnterButton
+Método chamador: ClickEnterButton
+	 Element "//*[@id="root"]/div/div/form/button" was successfully clicked by XPath
+	 Elemento "//*[@id="root"]/div/div/form/button" foi clicado com sucesso por XPath
+
+
+Method caller: não_deve_ser_redirecionado_para_a_tela_inicial_deve_mostrar_a_mensagem
+Método chamador: não_deve_ser_redirecionado_para_a_tela_inicial_deve_mostrar_a_mensagem
+	 Expected message: "Email é obrigatório" 
+	 Received message: "Email é obrigatório" 
+	 Mensagem esperada: "Email é obrigatório" 
+	 Mensagem recebida: "Email é obrigatório" 
